@@ -34,6 +34,7 @@ h1 {
 h2 {
     font-size: 15px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 form div input {
     width: 30%;
@@ -90,6 +91,7 @@ form div select {
     align-self: center;
     background-color: #03A9F4;
     color: white;
+    border: none;
 }
 form div i {
     position: absolute;
