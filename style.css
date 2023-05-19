@@ -102,7 +102,7 @@ form div i {
 }
 .success-icon,
 .failure-icon {
-    right: 350px;
+    right: 0px;
     opacity: 0;
 }
 .failure-icon,
